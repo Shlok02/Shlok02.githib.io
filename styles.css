@@ -7,3 +7,16 @@ h1 {
     color: lime;
     text-align:center;
 }
+
+.assignment {
+    display: flex;
+    padding: 10px;
+    background-color: rosybrown;
+    margin: 10px;
+
+}
+
+.assignment img{
+ width: 140px;
+ padding: 10px;
+}
